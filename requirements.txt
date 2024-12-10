@@ -24,3 +24,4 @@ zipp==3.6.0
 tzdata==2024.2
 flask_sqlalchemy
 flask_wtf
+flask_migrate
